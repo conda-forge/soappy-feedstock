@@ -50,8 +50,8 @@ about:
   summary: 'Simple to use SOAP library for Python'
 
   description: |
-    Disclaimer
-    ==========
+    Disclaimer (from upstream package)
+    ==================================
     Please use `suds <https://pypi.python.org/pypi/suds>`_ rather than SOAPpy.
     SOAPpy is old and clamsy.
   dev_url: https://github.com/kiorky/SOAPpy
