@@ -9,8 +9,8 @@ Feedstock license: BSD 3-Clause
 
 Summary: Simple to use SOAP library for Python
 
-Disclaimer
-==========
+Disclaimer (from upstream package)
+==================================
 Please use `suds <https://pypi.python.org/pypi/suds>`_ rather than SOAPpy.
 SOAPpy is old and clamsy.
 
